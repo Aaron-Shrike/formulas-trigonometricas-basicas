@@ -3,5 +3,5 @@ Sistema de formulas trigonométricas básicas de perímetro e hipotenusa de un t
 
 <div align="center">
 <img src="src/media/menu-principal.png">
-<p><strong>Imagen:</strong> Menú principal - Registrar proyecto.</p>
+<p><strong>Imagen:</strong> Menú principal - Triangulo.</p>
 </div>
